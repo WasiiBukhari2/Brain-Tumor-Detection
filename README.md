@@ -1,1 +1,2 @@
-# Brain-Tumor-Detection
+# Brain Tumer Detection
+This project focuses on developing a machine learning model to detect brain tumors from CT scan and MRI images. Leveraging advanced image processing techniques and deep learning algorithms, the model is trained to accurately identify and classify tumor regions within the brain. The use of convolutional neural networks (CNNs) enables the system to analyze complex patterns in medical imaging, enhancing early detection and diagnosis. This project aims to assist medical professionals in providing timely and accurate assessments, ultimately improving patient outcomes.
